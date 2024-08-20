@@ -1,0 +1,12 @@
+{
+  "name": "hexo-theme-blank",
+  "version": "1.0.0",
+  "description": "blank is a Hexo theme without CSS and JS, which is suitable for extreme network environments and is the best choice for .onion sites",
+  "main": "package.json",
+  "repository": "Feiju12138/hexo-theme-blank",
+  "keywords": [
+    "hexo",
+    "theme",
+    "blank"
+  ]
+}
